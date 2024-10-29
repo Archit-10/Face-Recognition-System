@@ -93,3 +93,13 @@ python face_recognition.py
     <li><strong>Real-Time Face Recognition:</strong> Explore implementation for real-time face detection and recognition using a webcam feed.</li>
     <li><strong>Expand the Dataset:</strong> Test the model on larger and more diverse datasets for robustness evaluation.</li>
 </ul>
+
+<h2>🤝 Contributions</h2>
+
+<p><strong>Contributions are welcome!</strong> If you'd like to contribute to this project, please follow these guidelines:</p>
+<ol>
+    <li><strong>Fork the repository.</strong></li>
+    <li><strong>Create a new branch</strong> for your feature or bug fix.</li>
+    <li><strong>Submit a pull request</strong> detailing your changes.</li>
+</ol>
+
